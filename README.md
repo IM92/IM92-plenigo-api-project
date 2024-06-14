@@ -55,13 +55,16 @@ Maven: Maven is used for dependency management and building the project. You can
 
 I have created a new branch for this task: master so the url of the project on GIT Hub is:
 ```bash
-https://github.com/IM92/IM92-plenigo-api-project/tree/master
+when we clone repositoty we alo must checkout the master branch
+git checkout master
 ```
 
 ## Getting Started
 ## 1.Clone the Repository:
 ```bash
 git clone https://github.com/IM92/IM92-plenigo-api-project.git
+and then checkout to master branch
+git checkout master 
 ```
 ## 2.Navigate to the Project Directory:
 ```bash
