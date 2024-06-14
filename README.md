@@ -52,6 +52,12 @@ Before running the NASA EPIC Image Fetcher application, ensure that you have the
 Java: Ensure Java Development Kit (JDK) 8 or higher is installed. You can download it from Oracle's website.
 
 Maven: Maven is used for dependency management and building the project. You can download Maven from Maven's official website and follow the installation instructions for your operating system.
+
+I have created a new branch for this task: master so the url of the project on GIT Hub is:
+```bash
+https://github.com/IM92/IM92-plenigo-api-project/tree/master
+```
+
 ## Getting Started
 ## 1.Clone the Repository:
 ```bash
